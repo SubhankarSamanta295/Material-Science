@@ -1,4 +1,3 @@
-from unicodedata import name
 from flask import Flask, render_template, request
 import model as m
 
