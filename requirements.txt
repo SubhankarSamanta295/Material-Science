@@ -20,7 +20,7 @@ cachetools==4.2.1
 catalogue==2.0.6
 certifi==2021.10.8
 click==8.0.3
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.3
 composition==8!6.75309
 comtypes==1.1.10
